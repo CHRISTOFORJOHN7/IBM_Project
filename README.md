@@ -61,6 +61,6 @@ bash
 jupyter notebook
 
 This command opens Jupyter Notebook in your web browser and automatically displays the files in the current directory. Follow the instructions in the notebook to run the code. You can run the code cells by pressing "Ctrl + Enter" or by clicking the "Run" button in the Jupyter Notebook interface.
-#### Note: The final code you need to run is named AI_Phase5.ipynb.
+#### Note: The final code you need to run is named AI_Phase5.pdf.
 ## Final Documentation
 For complete project documentation, refer to the Project Documentation (AI_Phase5.docx) file. This document contains detailed information about our project, including the code, output, and screenshots of the code's results.
